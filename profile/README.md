@@ -1,11 +1,15 @@
 # OSGeo Suomi ry
 
-Tämä on OSGeo Suomi ry:n koodirepo
+Tämä on OSGeo Suomi ry:n tarjoama paikka avoimen lähdekoodin projektien git-repositoryille.
+
+Jos Github organisaation liittyviä kysymyksiä tai ongelmia, niin kirjoita [tähän repoon](https://github.com/osgeosuomi/.github/issues) issue
+tai lähetä sähköpostia info at osgeo.fi
 
 ## Politiikkaa
 - Vain yhdistyksen jäsen voi olla repon ylläpitäjä (maintainer) 
   - TODO: kuinka liityn jäseneksi.
 - Muut voivat olla normaaleja jäseniä
+- OSGeo suomi ry:n hallituksen jäsenillä on oikeus poistaa organisaation alla olevia repositoryjä/koodia/oikeuksia ongelmatapauksissa esim repositoryn ylläpitäjän käyttäjätilin tullessa kaapatuksi yms
 
 ### Repojen luonti
 - Harkitse ensin muutama kerta
