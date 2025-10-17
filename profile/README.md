@@ -1,4 +1,11 @@
-## Hi there 👋
+# OSGeo Suomi ry
+
+Tämä on OSGeo Suomi ry:n koodirepo
+
+## Politiikkaa
+<kesken>
+- Vain yhdistyksen jäsen voi olla repon jäsen (maintainer) / ylläpitäjä
+- Muut voivat olla 
 
 <!--
 
