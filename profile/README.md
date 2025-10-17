@@ -20,11 +20,18 @@ Tämä on OSGeo Suomi ry:n koodirepo
 
 #### Koodit
 - OSIn lisenssit
+- [OSGeo Foundationin ohjeistus](https://www.osgeo.org/about/what-is-open-source/)
 - <Mikä on OSGeo:n suositus?>
 
 #### Dokumentaatio
 - CC-BY
 
+#### Tekijänoikeudet
+- <Laitetaanko kaikkiin lähdekoodi tiedostoihin vai ainoastaan yhteen repoon>
+- <Luovutetaanko tekijänoikeudet OSGeo Suomi ry:lle>
+
+# Parhaat käytännöt
+- Lisää tekijänoikeustiedot kaikkiin lähdekoodia sisältäviin tiedostoihin
 
 <!--
 
