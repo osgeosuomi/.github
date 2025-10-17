@@ -4,8 +4,28 @@ Tämä on OSGeo Suomi ry:n koodirepo
 
 ## Politiikkaa
 <kesken>
-- Vain yhdistyksen jäsen voi olla repon jäsen (maintainer) / ylläpitäjä
-- Muut voivat olla 
+- Vain yhdistyksen jäsen voi olla repon ylläpitäjä (maintainer) 
+- Muut voivat olla normaaleja jäseniä
+
+### Repojen luonti
+- Harkitse ensin muutama kerta
+- Lisää repolle vähintään toinen ylläpitäjä
+
+### Security 
+- Lisätään joku dokumentti tähän, mikä?
+
+### Käyttöehtolisenssit
+- QGIS:n osalta pitää olla GPL2/GPL
+- Kaikissa repoissa on oltava käyttöehtolisenssi
+- 
+
+#### Koodit
+- OSIn lisenssit
+- <Mikä on OSGeo:n suositus?>
+
+#### Dokumentaatio
+- CC-BY
+
 
 <!--
 
