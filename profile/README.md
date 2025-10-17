@@ -5,6 +5,7 @@ Tämä on OSGeo Suomi ry:n koodirepo
 ## Politiikkaa
 <kesken>
 - Vain yhdistyksen jäsen voi olla repon ylläpitäjä (maintainer) 
+  - TODO: kuinka liityn jäseneksi.
 - Muut voivat olla normaaleja jäseniä
 
 ### Repojen luonti
@@ -17,7 +18,6 @@ Tämä on OSGeo Suomi ry:n koodirepo
 ### Käyttöehtolisenssit
 - QGIS:n osalta pitää olla GPL2/GPL
 - Kaikissa repoissa on oltava käyttöehtolisenssi
-- 
 
 #### Koodit
 - OSIn lisenssit
