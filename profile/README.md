@@ -32,7 +32,7 @@ Tämä on OSGeo Suomi ry:n koodirepo
 
 # Parhaat käytännöt
 - Lisää tekijänoikeustiedot kaikkiin lähdekoodia sisältäviin tiedostoihin
-
+- Jos Github organisaation liittyviä ongelmia, niin kirjoita tähän repoon issue
 <!--
 
 **Here are some ideas to get you started:**
