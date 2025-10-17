@@ -3,7 +3,6 @@
 Tämä on OSGeo Suomi ry:n koodirepo
 
 ## Politiikkaa
-
 - Vain yhdistyksen jäsen voi olla repon ylläpitäjä (maintainer) 
   - TODO: kuinka liityn jäseneksi.
 - Muut voivat olla normaaleja jäseniä
