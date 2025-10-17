@@ -34,7 +34,7 @@ Tämä on OSGeo Suomi ry:n koodirepo
 - Lisää tekijänoikeustiedot kaikkiin lähdekoodia sisältäviin tiedostoihin
 - Jos Github organisaation liittyviä ongelmia, niin kirjoita [tähän repoon](https://github.com/osgeosuomi/.github/issues) issue
 tai lähetä sähköpostia info at osgeo.fi
-- 
+- <Miten hoidetaan "tukipalvelut" repoille? Sähköpostilista?>
 <!--
 
 **Here are some ideas to get you started:**
